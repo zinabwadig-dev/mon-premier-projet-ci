@@ -1,5 +1,5 @@
 function addition(a, b) {
-    return a + ;
+    return a + b;
 }
 
 let result= addition(5, 10);
